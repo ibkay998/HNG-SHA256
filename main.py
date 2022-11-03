@@ -1,19 +1,22 @@
 import os
 import csv, hashlib, json
 
+#get the current working directory and add the path csv
 path = os.getcwd() +'\\csv'
+#get all csvs in path
 all_csv = os.listdir(path)
 
-if len(all_csv) == 0:
-    print("input your csv in the csv folder")
-
 for item in all_csv:
+    #removes the .csv from the file name
     new_item = item.split('.')[0]
+    #the output file
     OUTPUT_FILE = 'output/{}.output.csv'.format(new_item)
+    #code to write into the output file
     f = open(OUTPUT_FILE, 'w')
     writer = csv.writer(f)
     writer.writerow(['Series Number', 'Filename', 'Descriptor','Gender','UUID', 'Hash'])
     CSV_FILE = 'csv/{}'.format(item)
+    #reading the input file
     with open(CSV_FILE, 'r') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         next(csv_reader)
@@ -29,7 +32,7 @@ for item in all_csv:
                 'id' : uuid,
                 'name' : file_name,
                 'description' : descriptor,
-                'minting_tool' : 'Matanmi SuperMint',
+                'minting_tool' : 'SuperMinter/2.5.2',
                 'sensitive_content' : False,
                 'series_number' :serial_number,
                 'series_total' : data[-1][0],
