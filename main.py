@@ -24,14 +24,14 @@ for item in all_csv:
         for row in data:
             serial_number = row[0]
             file_name = row[1]
-            descriptor = row[2]
+            description = row[2]
             gender = row[3]
             uuid = row[4]
             Chip_007 = {
                 'format' : 'CHIP-0007',
                 'id' : uuid,
                 'name' : file_name,
-                'description' : descriptor,
+                'description' : description,
                 'minting_tool' : 'SuperMinter/2.5.2',
                 'sensitive_content' : False,
                 'series_number' :serial_number,
