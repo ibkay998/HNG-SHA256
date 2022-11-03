@@ -2,12 +2,12 @@ import os
 import csv, hashlib, json
 
 path = os.getcwd() +'\\csv'
-ans = os.listdir(path)
+all_csv = os.listdir(path)
 
-if len(ans) == 0:
+if len(all_csv) == 0:
     print("input your csv in the csv folder")
 
-for item in ans:
+for item in all_csv:
     new_item = item.split('.')[0]
     OUTPUT_FILE = 'output/{}.output.csv'.format(new_item)
     f = open(OUTPUT_FILE, 'w')
