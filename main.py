@@ -21,12 +21,12 @@ for item in all_csv:
         csv_reader = csv.reader(csv_file, delimiter=',')
         next(csv_reader)
         data = [item for item in csv_reader]
-        for column in data:
-            serial_number = column[0]
-            file_name = column[1]
-            descriptor = column[2]
-            gender = column[3]
-            uuid = column[4]
+        for row in data:
+            serial_number = row[0]
+            file_name = row[1]
+            descriptor = row[2]
+            gender = row[3]
+            uuid = row[4]
             Chip_007 = {
                 'format' : 'CHIP-0007',
                 'id' : uuid,
@@ -56,8 +56,8 @@ for item in all_csv:
                 for byte_block in iter(lambda: f.read(4096),b""):
                     sha256_hash.update(byte_block)
             hashString = sha256_hash.hexdigest()
-            column.append(f'{hashString}')
-            writer.writerow(column)
+            row.append(f'{hashString}')
+            writer.writerow(row)
     f.close()
 
 
