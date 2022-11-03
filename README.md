@@ -3,12 +3,13 @@ This Simple Script reads the csv files in the csv Folder, for each csv present, 
 Requirements Python 3
 
 How to Run
-git clone https://github.com/ibkay998/HNG-SHA256.git
+git clone https://github.com/ibkay998/HNG-SHA256.git.
 
-put all the csv you want to generate hash for in the csv folder
+put all the csv you want to generate hash for in the csv folder.
 
 Ensure your csv file is of the format
-Serial Number,Filename,Description,Gender,UUID
+TEAM NAMES,Series Number,Filename,Name,Description,Gender,attributes,UUID
+
 otherwise it will not give you the correct response
 
 type in the console "python main.py"
