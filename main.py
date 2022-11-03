@@ -44,8 +44,9 @@ for item in all_csv:
             expression_value = expression.split(":")[1].strip()
             strengths = attr_pair[6]
             strengths_value = strengths.split(":")[1].strip()
+            print(attr_pair)
             weakness = attr_pair[7]
-            weakness_value = weakness.split(":")
+            weakness_value = weakness.split(":")[1].strip()
             uuid = row[7]
             def sample(trait_type,value):
                 return {"trait_type":trait_type,"value":value}
