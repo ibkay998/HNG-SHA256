@@ -15,6 +15,7 @@ For this program to run all you need is Python 3
 therwise it will not give you the correct response
 
 4.Type in the console "python main.py".
+
 5.The output folder should have the updated csv.
 
 ### References
