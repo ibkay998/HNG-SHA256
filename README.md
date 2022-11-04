@@ -18,6 +18,6 @@ otherwise it will not give you the correct response
 5.The output folder should have the updated csv.
 
 ### References
-If you need to see the schema of the csv chechk below
+If you need to see the schema of the csv check below
 - [Schema](https://docs.google.com/spreadsheets/d/1b5H3bp_9-YVjTYQNjLeokXJewrcPfgUo_MYvYXtaUno/edit#gid=0)
 
