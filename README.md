@@ -11,12 +11,12 @@ For this program to run all you need is Python 3
 
 2. Put all the csv you want to generate hash for in the csv folder.
 
-3.Ensure your csv file is of the format Serial Number,Filename,Description,Gender,UUID as the top rows of the csv.
+3. Ensure your csv file is of the format Serial Number,Filename,Description,Gender,UUID as the top rows of the csv.
 therwise it will not give you the correct response
 
-4.Type in the console "python main.py".
+4. Type in the console "python main.py".
 
-5.The output folder should have the updated csv.
+5. The output folder should have the updated csv.
 
 ### References
 If you need to see the schema of the csv check below.
