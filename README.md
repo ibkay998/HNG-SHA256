@@ -6,7 +6,7 @@ This Simple Python Script reads the csv files in the csv folder and for each csv
 ### Requirements 
 For this program to run all you need is Python 3
 
-###How to Run
+### How to Run
 1. Clone the repository to your local machine.
 
 2. Put all the csv you want to generate hash for in the csv folder.
@@ -17,7 +17,7 @@ otherwise it will not give you the correct response
 4.Type in the console "python main.py".
 5.The output folder should have the updated csv.
 
-###References
+### References
 If you need to see the schema of the csv chechk below
 - [Schema](https://docs.google.com/spreadsheets/d/1b5H3bp_9-YVjTYQNjLeokXJewrcPfgUo_MYvYXtaUno/edit#gid=0)
 
