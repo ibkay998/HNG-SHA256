@@ -1,0 +1,36 @@
+{
+    "format": "CHIP-0007",
+    "id": "dfbb4163-df24-4d54-b74c-6218a68df8bd",
+    "name": "mayowa-the-smallie",
+    "description": "Mayowa is so small but everyone loves him still.",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": "13",
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "multicolored"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask"
+        }
+    ],
+    "collection": {
+        "name": "mayowa-the-smallie",
+        "id": "dfbb4163-df24-4d54-b74c-6218a68df8bd"
+    }
+}

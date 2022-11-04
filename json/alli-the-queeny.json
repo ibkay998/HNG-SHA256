@@ -1,0 +1,40 @@
+{
+    "format": "CHIP-0007",
+    "id": "a57ecda4-a26f-4e97-a757-e1800af39aab",
+    "name": "alli-the-queeny",
+    "description": "Alli is an LGBT Stan.",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": "2",
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask"
+        },
+        {
+            "trait_type": "strengths",
+            "value": "powerful"
+        }
+    ],
+    "collection": {
+        "name": "alli-the-queeny",
+        "id": "a57ecda4-a26f-4e97-a757-e1800af39aab"
+    }
+}

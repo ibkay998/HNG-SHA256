@@ -1,0 +1,40 @@
+{
+    "format": "CHIP-0007",
+    "id": "4f30b751-96e7-40fe-97fd-e3d44973ff2f",
+    "name": "aminu-the-carpenter",
+    "description": "Aminu's hands are blessed, he makes the best furniture in the whole of Kano.",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": "4",
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask"
+        },
+        {
+            "trait_type": "strengths",
+            "value": "powerful"
+        }
+    ],
+    "collection": {
+        "name": "aminu-the-carpenter",
+        "id": "4f30b751-96e7-40fe-97fd-e3d44973ff2f"
+    }
+}

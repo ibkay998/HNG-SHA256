@@ -1,0 +1,40 @@
+{
+    "format": "CHIP-0007",
+    "id": "0e37ed0d-3e84-4f32-a91f-ec9c4ba8c7de",
+    "name": "aminat-the-snnobish",
+    "description": "Aminat never really wants to talk to anyone.",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": "3",
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "hair",
+            "value": "brown bun"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "expression",
+            "value": "blank"
+        },
+        {
+            "trait_type": "weakness",
+            "value": "attitude"
+        }
+    ],
+    "collection": {
+        "name": "aminat-the-snnobish",
+        "id": "0e37ed0d-3e84-4f32-a91f-ec9c4ba8c7de"
+    }
+}

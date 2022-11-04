@@ -1,0 +1,36 @@
+{
+    "format": "CHIP-0007",
+    "id": "27eca2dc-d7df-474a-8f8f-1858152c711e",
+    "name": "damilare-the-handsome",
+    "description": "He's a fine boy, proper eye candy. ",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": "8",
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask"
+        }
+    ],
+    "collection": {
+        "name": "damilare-the-handsome",
+        "id": "27eca2dc-d7df-474a-8f8f-1858152c711e"
+    }
+}

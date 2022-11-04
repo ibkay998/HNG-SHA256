@@ -1,0 +1,36 @@
+{
+    "format": "CHIP-0007",
+    "id": "c98db72e-49ac-4ca6-89d5-e00f5fbbcc45",
+    "name": "chidinma-the-model",
+    "description": "From Paris' runways, to London's streets, she's always in demand.",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": "6",
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "hair",
+            "value": "brown hair"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "multicolored"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "strengths",
+            "value": "hardworking"
+        }
+    ],
+    "collection": {
+        "name": "chidinma-the-model",
+        "id": "c98db72e-49ac-4ca6-89d5-e00f5fbbcc45"
+    }
+}

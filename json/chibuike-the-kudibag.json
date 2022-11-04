@@ -1,0 +1,40 @@
+{
+    "format": "CHIP-0007",
+    "id": "5ce854f2-7ac1-46fd-b3fe-57583935d1e5",
+    "name": "chibuike-the-kudibag",
+    "description": "Chibuike is too rich. Everyone wonders how he got it.",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": "5",
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "blue"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask"
+        },
+        {
+            "trait_type": "strengths",
+            "value": "hustler"
+        }
+    ],
+    "collection": {
+        "name": "chibuike-the-kudibag",
+        "id": "5ce854f2-7ac1-46fd-b3fe-57583935d1e5"
+    }
+}

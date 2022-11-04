@@ -1,0 +1,44 @@
+{
+    "format": "CHIP-0007",
+    "id": "cad316c3-37f8-4b27-9f53-9d803bfcfee7",
+    "name": "adewale-the-amebo",
+    "description": "Adewale likes to be in everyone's business. ",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": "1",
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "red"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "mask"
+        },
+        {
+            "trait_type": "strengths",
+            "value": "powerful"
+        },
+        {
+            "trait_type": "weakness",
+            "value": "curiosity"
+        }
+    ],
+    "collection": {
+        "name": "adewale-the-amebo",
+        "id": "cad316c3-37f8-4b27-9f53-9d803bfcfee7"
+    }
+}

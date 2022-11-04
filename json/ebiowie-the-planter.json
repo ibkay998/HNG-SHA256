@@ -1,0 +1,32 @@
+{
+    "format": "CHIP-0007",
+    "id": "f1df8270-4d60-4bd4-8959-ba7c384db5c4",
+    "name": "ebiowie-the-planter",
+    "description": "Ebiowei has a reputation for nurturing plants.",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": "9",
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "multicolored"
+        },
+        {
+            "trait_type": "strengths",
+            "value": "powerful"
+        }
+    ],
+    "collection": {
+        "name": "ebiowie-the-planter",
+        "id": "f1df8270-4d60-4bd4-8959-ba7c384db5c4"
+    }
+}

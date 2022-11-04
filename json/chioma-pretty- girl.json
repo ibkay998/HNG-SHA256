@@ -1,0 +1,32 @@
+{
+    "format": "CHIP-0007",
+    "id": "182ea888-a85b-42ca-ad73-ed4f8f9aa5c7",
+    "name": "chioma-pretty- girl",
+    "description": "Chioma's face card is a 100.",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": "7",
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "hair",
+            "value": "dreads"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "multicolored"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "glasses"
+        }
+    ],
+    "collection": {
+        "name": "chioma-pretty- girl",
+        "id": "182ea888-a85b-42ca-ad73-ed4f8f9aa5c7"
+    }
+}
